@@ -1,0 +1,50 @@
+.container {
+    .btn {
+        @apply mt-[50px] flex gap-[20px];
+
+        button {
+            @apply font-semibold text-lg text-[#10375c] active:scale-[1.1];
+        }
+    }
+
+    .products {
+        @apply flex gap-[20px] flex-wrap mt-[50px];
+
+        .productCard {
+            @apply w-[400px] h-[200px] rounded-[10px] shadow-[0_8px_20px_rgb(0,0,0,0.12)] overflow-hidden flex gap-[12px] relative;
+            .sale{
+                @apply py-[4px] px-[8px] bg-[#fc5c65] font-normal text-sm text-[#FFFFFF] absolute top-0 right-[12px] rounded-[4px];
+            }
+            .cardImage {
+                @apply w-[150px] h-full bg-gray-300 overflow-hidden
+            }
+            .cardText{
+                @apply mt-[10px] ;
+                .brand{
+                    @apply text-lg font-bold;
+                }
+                .model{
+                    @apply text-[16px] font-bold mb-[5px] text-gray-500;
+                }
+                p{
+                    @apply text-sm font-normal text-gray-600;
+                }
+                .price{
+                    @apply text-lg font-bold mt-[10px];
+                    .discount{
+                        @apply text-gray-300;
+                    }
+                    .regular{
+                        @apply text-[#000000]
+                    }
+                    .offer{
+                        @apply text-[#fc5c65] ml-[20px];
+                    }
+            }
+            .specifications{
+                @apply list-disc font-normal text-sm text-gray-600 pl-[20px];
+            }
+        }
+    }
+}
+}
