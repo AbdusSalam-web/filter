@@ -68,7 +68,8 @@ export const data = [
       os: "Android",
     },
     price: 599,
-    image_url: "https://example.com/images/google_pixel_6.jpg",
+    image_url:
+      "https://adminapi.applegadgetsbd.com/storage/media/large/3774-67323.jpg",
   },
   {
     id: 5,
@@ -86,7 +87,8 @@ export const data = [
     price: 749,
     discount_applied: true,
     discounted_price: 649,
-    image_url: "https://example.com/images/xiaomi_mi_11.jpg",
+    image_url:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4o2dFv0ueAG20yJKv52qdViArIYwyalfyA&s",
   },
   {
     id: 6,
@@ -102,7 +104,8 @@ export const data = [
       os: "Android",
     },
     price: 499,
-    image_url: "https://example.com/images/oppo_reno6.jpg",
+    image_url:
+      "https://www.shopz.com.bd/wp-content/uploads/2021/11/Oppo-Reno-6-8-128gb.jpg",
   },
   {
     id: 7,
@@ -120,7 +123,8 @@ export const data = [
     price: 399,
     discount_applied: true,
     discounted_price: 349,
-    image_url: "https://example.com/images/vivo_v21.jpg",
+    image_url:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4iz9MQ9ecUtMrFNSk7CWVw8Lhqq9s4YiQg&s",
   },
   {
     id: 8,
@@ -136,7 +140,7 @@ export const data = [
       os: "Android",
     },
     price: 399,
-    image_url: "https://example.com/images/realme_gt_master.jpg",
+    image_url: "https://fdn2.gsmarena.com/vv/bigpic/realme-gt-master.jpg",
   },
   {
     id: 9,
@@ -154,7 +158,7 @@ export const data = [
     price: 499,
     discount_applied: true,
     discounted_price: 449,
-    image_url: "https://example.com/images/motorola_moto_g100.jpg",
+    image_url: "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g100-1.jpg",
   },
   {
     id: 10,
@@ -170,7 +174,8 @@ export const data = [
       os: "Android",
     },
     price: 399,
-    image_url: "https://example.com/images/nokia_x20.jpg",
+    image_url:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7D-A240hdKPRTDm0BE1bQnKOQoz0N6hQgSg&s",
   },
   {
     id: 11,
@@ -186,7 +191,8 @@ export const data = [
       os: "Android",
     },
     price: 1799,
-    image_url: "https://example.com/images/samsung_galaxy_z_fold_3.jpg",
+    image_url:
+      "https://1000fix.com/wp-content/uploads/2022/07/Samsung-Galaxy-Z-Fold3-5G-image.webp",
   },
   {
     id: 12,
@@ -204,7 +210,8 @@ export const data = [
     price: 799,
     discount_applied: true,
     discounted_price: 699,
-    image_url: "https://example.com/images/apple_iphone_12.jpg",
+    image_url:
+      "https://cdn.dxomark.com/wp-content/uploads/medias/post-70968/apple_iphone_12_mini_.jpg",
   },
   {
     id: 13,
@@ -220,7 +227,8 @@ export const data = [
       os: "Android",
     },
     price: 749,
-    image_url: "https://example.com/images/oneplus_8t.jpg",
+    image_url:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiIJ0a-AJnYxHac_qkCytUluRfmLFw6pMAw&s",
   },
   {
     id: 14,
@@ -236,7 +244,8 @@ export const data = [
       os: "Android",
     },
     price: 699,
-    image_url: "https://example.com/images/google_pixel_5.jpg",
+    image_url:
+      "https://m-cdn.phonearena.com/images/review/4878-wide-two_1200/Google-Pixel-5-Review-Brilliant-but-outshined.jpg",
   },
   {
     id: 15,
@@ -252,7 +261,8 @@ export const data = [
       os: "Android",
     },
     price: 599,
-    image_url: "https://example.com/images/xiaomi_mi_10t.jpg",
+    image_url:
+      "https://diamu.com.bd/wp-content/uploads/2020/10/Xiaomi-Mi-10T-5G-1.jpg",
   },
   {
     id: 16,
@@ -268,7 +278,8 @@ export const data = [
       os: "Android",
     },
     price: 1149,
-    image_url: "https://example.com/images/oppo_find_x3_pro.jpg",
+    image_url:
+      "https://diamu.com.bd/wp-content/uploads/2023/12/OPPO-Find-X3-Pro-2.jpg",
   },
   {
     id: 17,
@@ -286,7 +297,7 @@ export const data = [
     price: 899,
     discount_applied: true,
     discounted_price: 849,
-    image_url: "https://example.com/images/vivo_x60_pro.jpg",
+    image_url: "https://fdn2.gsmarena.com/vv/bigpic/vivo-x60-pro.jpg",
   },
   {
     id: 18,
@@ -302,7 +313,8 @@ export const data = [
       os: "Android",
     },
     price: 499,
-    image_url: "https://example.com/images/realme_x7_pro.jpg",
+    image_url:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6NDMKUE1JVRjVr53bjUC2qUX3aCNGlKjYA&s",
   },
   {
     id: 19,
@@ -318,7 +330,8 @@ export const data = [
       os: "Android",
     },
     price: 699,
-    image_url: "https://example.com/images/motorola_edge_20_pro.jpg",
+    image_url:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSX-_jMNgOp_bisvmRby3L5SBxwASSP9rEQ&s",
   },
   {
     id: 20,
@@ -334,6 +347,6 @@ export const data = [
       os: "Android",
     },
     price: 299,
-    image_url: "https://example.com/images/nokia_g50.jpg",
+    image_url: "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g50-r.jpg",
   },
 ];
